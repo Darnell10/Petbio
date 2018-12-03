@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Petbio</string>
+    <string name="cat">Cat</string>
+    <string name="dog">dog</string>
+</resources>
